@@ -1,4 +1,11 @@
-## Hi there 👋
+👋 Olá! Sou estudante de Desenvolvimento de Sistemas com foco em programação web.
+
+🌱 Atualmente, estou aprendendo JavaScript e fundamentos de bancos de dados com MySQL, além de praticar inglês.
+
+💻 Estou sempre em busca de novos desafios e projetos para aprimorar minhas habilidades.
+
+📫 Entre em contato: [martinsfilipe2006@gmail.com](martinsfilipe2006@gmail.com)
+
 
 <!--
 **Filipe-Martins-Pinto/Filipe-Martins-Pinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
